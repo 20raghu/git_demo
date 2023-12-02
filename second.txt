@@ -1,3 +1,0 @@
-after commint, checking the text
-added second into .gitignore
-dumy to check gitignoe
