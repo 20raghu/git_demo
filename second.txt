@@ -1,1 +1,2 @@
 after commint, checking the text
+added second into .gitignore
