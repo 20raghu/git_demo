@@ -1,1 +1,4 @@
 after commit, check
+checking untracked and unmodfiied
+checking again
+checking after add
