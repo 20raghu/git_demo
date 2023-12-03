@@ -2,3 +2,6 @@ after commit, check
 checking untracked and unmodfiied
 checking again
 checking after add
+checking for git diff
+again checking for git diff and as long as the value of c is 3*10pow8 mtr/sec
+bangalore is a beautiful place and kochi is also a beautiful place
